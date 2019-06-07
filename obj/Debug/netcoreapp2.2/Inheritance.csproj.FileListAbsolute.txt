@@ -1,0 +1,11 @@
+/Users/sambritt/workspace/csharp/exercises/Inheritance/bin/Debug/netcoreapp2.2/Inheritance.deps.json
+/Users/sambritt/workspace/csharp/exercises/Inheritance/bin/Debug/netcoreapp2.2/Inheritance.runtimeconfig.json
+/Users/sambritt/workspace/csharp/exercises/Inheritance/bin/Debug/netcoreapp2.2/Inheritance.runtimeconfig.dev.json
+/Users/sambritt/workspace/csharp/exercises/Inheritance/bin/Debug/netcoreapp2.2/Inheritance.dll
+/Users/sambritt/workspace/csharp/exercises/Inheritance/bin/Debug/netcoreapp2.2/Inheritance.pdb
+/Users/sambritt/workspace/csharp/exercises/Inheritance/obj/Debug/netcoreapp2.2/Inheritance.csprojAssemblyReference.cache
+/Users/sambritt/workspace/csharp/exercises/Inheritance/obj/Debug/netcoreapp2.2/Inheritance.csproj.CoreCompileInputs.cache
+/Users/sambritt/workspace/csharp/exercises/Inheritance/obj/Debug/netcoreapp2.2/Inheritance.AssemblyInfoInputs.cache
+/Users/sambritt/workspace/csharp/exercises/Inheritance/obj/Debug/netcoreapp2.2/Inheritance.AssemblyInfo.cs
+/Users/sambritt/workspace/csharp/exercises/Inheritance/obj/Debug/netcoreapp2.2/Inheritance.dll
+/Users/sambritt/workspace/csharp/exercises/Inheritance/obj/Debug/netcoreapp2.2/Inheritance.pdb
